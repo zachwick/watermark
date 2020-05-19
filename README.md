@@ -27,6 +27,7 @@ struct ContentView: View {
 }
 ~~~~
 
+![example](example.png)
 
 ## License
 
